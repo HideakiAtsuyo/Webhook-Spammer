@@ -1,0 +1,11 @@
+{
+    "token": "Votre token",
+    "serv": "id du serveur",
+    "webhook": {
+        "name": "Nom du webhook",
+        "avatar": "l'url de votre avatar",
+        "spamMsg": "Le message a spam"
+    },
+    "ChannellMsgCount": "90",
+    "sleepMS": "90"
+}
